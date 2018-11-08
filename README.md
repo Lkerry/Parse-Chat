@@ -40,7 +40,7 @@ Please list two areas of the assignment you'd like to **discuss further with you
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://github.com/ingdjason/Parse-Chat/blob/master/Parse%20Chat/Parse_Chat.gif?raw=true' title='Video Parse' width='' alt='Video Parse' />
+<img src='Parse_Chat.gif' title='Video Parse' width='' alt='Video Parse' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
