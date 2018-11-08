@@ -1,11 +1,11 @@
-# Parse-Chat
+# Parse_Chat
 In this lab you will build a chat client using Parse to explore the features of its ORM and backend service. We'll explore how to authenticate a user, design schema, and save and retrieve data from a Parse server.
 
-# Lab 4 - *Parse-Chat*
+# Lab 4 - *Parse_Chat*
 
-**Parse-Chat** is a Chat app using an [open source Parse](http://parseplatform.org/) backend.
+**Parse_Chat** is a Chat app using an [open source Parse](http://parseplatform.org/) backend.
 
-Time spent: **X** hours spent in total
+Time spent: **15** hours spent in total
 
 ## User Stories
 
@@ -29,20 +29,18 @@ The following **stretch** user stories are implemented:
 
 The following **additional** user stories are implemented:
 
-- [x] List anything else that you can get done to improve the app functionality! (+1-3pts)
+- [X] List anything else that you can get done to improve the app functionality! (+1-3pts)
     -use another backgroung for user currently login on device
 
 
 Please list two areas of the assignment you'd like to **discuss further with your peers** during the next class (examples include better ways to implement something, how to extend your app in certain ways, etc):
 
-1.
-2.
 
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://github.com/ingdjason/Parse-Chat/blob/master/Parse%20Chat/parse-demo.gif?raw=true' title='Video Parse' width='' alt='Video Parse' />
+<img src='https://github.com/ingdjason/Parse-Chat/blob/master/Parse%20Chat/Parse_Chat.gif?raw=true' title='Video Parse' width='' alt='Video Parse' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
@@ -52,7 +50,7 @@ Describe any challenges encountered while building the app.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2018] [Anne Kerrie Leveille]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
